@@ -23,6 +23,15 @@ Mai 2017
 - <span class="fragment">ASBL</span>
 - <span class="fragment">45 personnes</span>
 - <span class="fragment">15 ans</span>
-- 
+- <span class="fragement">Zonning de Gosselie</span>
+
++++
+### Leur Jobs 
+Aider et promouvoir l'IT dans les entreprises walonnes
+<span class="fragment">Comment ? </span> 
+<span class="fragment">En les aidant dans leur projet en crée des inovations</span>
+
+---
+
 
 
