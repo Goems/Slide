@@ -22,7 +22,7 @@ Mai 2017
 - T <span class="fragment">Technologie </span>
 - I <span class="fragment">Information </span>
 
-- <span class="fragement"><strong>C</strong>entre d'<strong>E</strong>xcellence </span>
+- <span class="fragment"><strong>C</strong>entre d'<strong>E</strong>xcellence </span>
 
 
 
