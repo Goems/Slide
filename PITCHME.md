@@ -16,9 +16,13 @@ Mai 2017
 ---
 
 ## Le CETIC ? C'est quoi ?
-- <strong class="fragment">C</strong>entre d'<strong class="fragment">E</strong>xcellence <strong class="fragment">T</strong>echnologie de l'<strong class="fragment">I</strong>nformation et de la <strong="fragment">C</strong>ommunication 
+<strong class="fragment">C</strong>entre d'<strong class="fragment">E</strong>xcellence <strong class="fragment">T</strong>echnologie de l'<strong class="fragment">I</strong>nformation et de la <strong class="fragment">C</strong>ommunication 
 
 +++
-coucou
+### Présentation
+- <span class="fragment">ASBL</span>
+- <span class="fragment">45 personnes</span>
+- <span class="fragment">15 ans</span>
+- 
 
 
