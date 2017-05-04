@@ -15,13 +15,8 @@ Mai 2017
 
 ---
 
-## Le CETIC
-
-- C<span class="fragment">entre</span>
-- E<span class="fragment">xcellence</span>
-- T<span class="fragment">echnologie </span>
-- I<span class="fragment">nformation </span>
-- <span class="fragment"><strong>C</strong>entre d'<strong>E</strong>xcellence </span>
+## Le CETIC ? C'est quoi ?
+- <strong>C</strong>entre d'<strong>E</strong>xcellence <strong>T</strong>echnologie de l'<strong>I</stong>nformation et de la <strong>C</strong>ommunication 
 
 
 
