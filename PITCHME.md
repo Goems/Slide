@@ -9,7 +9,7 @@ Mai 2017
 
 ---
 ## Sommaire
- - <span class ="fragment">Introdution</span>  
+ - <span class ="fragment">Le CETIC ? C'est quoi ?</span>  
  - <span class ="fragment">Etat de l'art</span>
  - <span class ="fragment"> Analyse comparative d'outils de déploiment et de configuration </span> 
 
@@ -18,6 +18,7 @@ Mai 2017
 ## Le CETIC ? C'est quoi ?
 - <strong class="fragment">C</strong>entre d'<strong class="fragment">E</strong>xcellence <strong class="fragment">T</strong>echnologie de l'<strong class="fragment">I</strong>nformation et de la <strong="fragment">C</strong>ommunication 
 
-
++++
+coucou
 
 
