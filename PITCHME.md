@@ -17,11 +17,10 @@ Mai 2017
 
 ## Le CETIC
 
-- C <span class="fragment">Centre</span>
-- E <span class="fragment">Excellence</span>
-- T <span class="fragment">Technologie </span>
-- I <span class="fragment">Information </span>
-
+- C<span class="fragment">entre</span>
+- E<span class="fragment">xcellence</span>
+- T<span class="fragment">echnologie </span>
+- I<span class="fragment">nformation </span>
 - <span class="fragment"><strong>C</strong>entre d'<strong>E</strong>xcellence </span>
 
 
