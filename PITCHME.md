@@ -30,10 +30,14 @@ Mai 2017
 Aider et promouvoir l'IT dans les entreprises walonnes
 <span class="fragment">Comment ? </span> 
 
-<span class="fragment">En les aidant dans leur projet en crée des inovations</span>
+<span class="fragment">En les aidant dans leur projet en créant des inovations</span>
 
 ---
 ## Etat de l'art
+- <span class="fragment">Autonomie</span>
+- <span class="fragment">Curiosité</span>
+
++++
 
 
 
