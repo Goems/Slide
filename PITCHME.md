@@ -34,7 +34,13 @@ Aider et promouvoir l'IT dans les entreprises walonnes
 <span class="fragment">En les aidant dans leur projet en créant des inovations</span>
 
 +++
-### Leur projets 
+### Leurs projets 
+
+- Santé
+- <span class="fragment">SEAMPAT</span>
+
+- Transport
+- <span class="fragment">SAMOBI</span>
 
 
 ---
