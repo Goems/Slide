@@ -36,11 +36,11 @@ Aider et promouvoir l'IT dans les entreprises walonnes
 +++
 ### Leurs projets 
 
-- Santé
-- <span class="fragment">SEAMPAT</span>
+- <span style="color:grey">Santé</span>
+    - <span class="fragment">SEAMPAT</span>
 
-- Transport
-- <span class="fragment">SAMOBI</span>
+- <span style="color:grey">Transport</span>
+    - <span class="fragment">SAMOBI</span>
 
 
 ---
