@@ -26,11 +26,16 @@ Mai 2017
 - <span class="fragment">Zonning de Gosselie</span>
 
 +++
-### Leur Jobs 
+### Leur jobs 
 Aider et promouvoir l'IT dans les entreprises walonnes
+
 <span class="fragment">Comment ? </span> 
 
 <span class="fragment">En les aidant dans leur projet en créant des inovations</span>
+
++++
+### Leur projets 
+
 
 ---
 ## Etat de l'art
@@ -38,6 +43,8 @@ Aider et promouvoir l'IT dans les entreprises walonnes
 - <span class="fragment">Curiosité</span>
 
 +++
+#Le versionning 
 
+- <span class="fragment">
 
 
