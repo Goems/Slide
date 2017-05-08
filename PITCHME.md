@@ -71,7 +71,7 @@ Aider et promouvoir l'IT dans les entreprises walonnes
 
 ### La Virtualisation 
 
-- <span class="fragement">Hyperviseur</span>
+- <span class="fragment">Hyperviseur</span>
     - <span class="fragment" style="color:grey">Type Natif</span>
     - <span class="fragment" style="color:grey">Type Hosted</span>
 
@@ -79,7 +79,7 @@ Aider et promouvoir l'IT dans les entreprises walonnes
 
 ### La Virtualisation 
 
-! [Logo](Hyperviseurwiki.png)
+![Logo](Hyperviseurwiki.png)
 
 
 
