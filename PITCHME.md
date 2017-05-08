@@ -26,6 +26,12 @@ Mai 2017
 - <span class="fragment">Zonning de Gosselie</span>
 
 +++
+### Les equipes
+- <span class="fragments">Software and System Engineering</span>
+- <span class="fragments">Software Services Technologies</span>
+- <span class="fragments">Embedded & Communicating Systems</span>
+
++++
 ### Leur jobs 
 Aider et promouvoir l'IT dans les entreprises walonnes
 
@@ -40,7 +46,7 @@ Aider et promouvoir l'IT dans les entreprises walonnes
     - <span class="fragment">SEAMPAT</span>
 
 - <span style="color:grey">Transport</span>
-    - <span class="fragment">SAMOBI</span>
+    - <span class="fragment">MOBITS</span>
 
 
 ---
@@ -49,8 +55,31 @@ Aider et promouvoir l'IT dans les entreprises walonnes
 - <span class="fragment">Curiosité</span>
 
 +++
-#Le versionning 
+### Le versionning 
 
-- <span class="fragment">
+- <span class="fragment">Git </span>
+- <span class="fragment">GitLab</span>
+
++++
+### Le Cloud
+
+- <span class="fragment">IAAS: Infractruture As A Service</span>
+- <span class="fragment">SAAS: Software As A Service</span>
+- <span class="fragment">PAAS: Plateforme As A Service</span>
+
++++
+
+### La Virtualisation 
+
+- <span class="fragement">Hyperviseur</span>
+    - <span class="fragment" style="color:grey">Type Natif</span>
+    - <span class="fragment" style="color:grey">Type Hosted</span>
+
++++
+
+### La Virtualisation 
+
+! [Logo](Hyperviseurwiki.png)
+
 
 
