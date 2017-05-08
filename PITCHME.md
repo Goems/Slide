@@ -27,9 +27,9 @@ Mai 2017
 
 +++
 ### Les equipes
-- <span class="fragments">Software and System Engineering</span>
-- <span class="fragments">Software Services Technologies</span>
-- <span class="fragments">Embedded & Communicating Systems</span>
+- <span class="fragment">Software and System Engineering</span>
+- <span class="fragment">Software Services Technologies</span>
+- <span class="fragment">Embedded & Communicating Systems</span>
 
 +++
 ### Leur jobs 
@@ -75,11 +75,13 @@ Aider et promouvoir l'IT dans les entreprises walonnes
     - <span class="fragment" style="color:grey">Type Natif</span>
     - <span class="fragment" style="color:grey">Type Hosted</span>
 
+    ![Logo](Hyperviseurwiki.png)
+
 +++
 
 ### La Virtualisation 
 
-![Logo](Hyperviseurwiki.png)
+
 
 
 
