@@ -1,5 +1,5 @@
 
-## Analyse comparative d'outils de déploiment et de configuration 
+### Analyse comparative d'outils de déploiment et de configuration 
 Stage de fin d'étude réalisé au CETIC
 Présenté par Valentin GOEMANNE
 
@@ -8,10 +8,13 @@ Sous la direction de Sébastien DUPONT et de Michel HANOTIAUX
 Mai 2017
 
 ---
+## Rermerciement 
+---
 ## Sommaire
  - <span class ="fragment">Le CETIC ? C'est quoi ?</span>  
  - <span class ="fragment">Etat de l'art</span>
- - <span class ="fragment"> Analyse comparative d'outils de déploiment et de configuration </span> 
+ - <span class ="fragment"> Analyse comparative d'outils de déploiment et de configuration </span>
+ - <span class ="fragment"> Conclusion </span> 
 
 ---
 
@@ -51,8 +54,10 @@ Aider et promouvoir l'IT dans les entreprises walonnes
 
 ---
 ## Etat de l'art
-- <span class="fragment">Autonomie</span>
-- <span class="fragment">Curiosité</span>
+- <span class="fragment">Le versionning </span>
+- <span class="fragment">Le cloud</span>
+- <span class="fragment">La virtualisation</span>
+- <span class="fragment">Les conteneurs</span>
 
 +++
 ### Le versionning 
@@ -61,7 +66,7 @@ Aider et promouvoir l'IT dans les entreprises walonnes
 - <span class="fragment">GitLab</span>
 
 +++
-### Le Cloud
+### Le cloud
 
 - <span class="fragment">IAAS: Infractruture As A Service</span>
 - <span class="fragment">SAAS: Software As A Service</span>
@@ -118,3 +123,15 @@ end
 
 ![Logo](CaptureDocker1.png)
 
+---
+## Analyse comparative d'outils de déploiment et de configuration 
+
+La problématique ? 
+
+
+
+---
+### Conclusion 
+
+- <span class="fragment">Autonomie</span>
+- <span class="fragment">Curiosité</span>
