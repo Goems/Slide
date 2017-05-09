@@ -126,9 +126,8 @@ end
 ---
 ## Analyse comparative d'outils de déploiment et de configuration 
 
-La problématique ? 
-
-
++++
+### La problématique ? 
 
 ---
 ### Conclusion 
