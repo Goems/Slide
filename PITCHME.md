@@ -75,13 +75,41 @@ Aider et promouvoir l'IT dans les entreprises walonnes
     - <span class="fragment" style="color:grey">Type Natif</span>
     - <span class="fragment" style="color:grey">Type Hosted</span>
 
-    ![Logo](Hyperviseurwiki.png)
+    
 
 +++
 
 ### La Virtualisation 
 
+![Logo](Hyperviseurwiki.png)
 
++++
+
+### La virtualisation 
+
+#### Vagrant 
+
+Vagrant.configure(2) do |config|
+   #Pour toute les machine qui fonctionne avec virtualbox
+   config.vm.provider "virtualbox" do |vb|
+    vb.memory = "512" 
+  end
+
+  #Configuration de la VM "VM1"
+  config.vm.define "VM1" do |machine|
+    machine.vm.box = "centos6.7"   #nom de la box 
+    machine.vm.hostname = "TestVM1"   
+    machine.vm.box_url = "https://dl.dropboxusercontent.com/u/51478659/vagrant/morungos-centos67.box"   #URL de la box si la box n'est pas déjà crée sur le pc 
+    machine.vm.network :private_network, ip: "192.168.10.191"   #Création d'un réseau privé avec l'ip mentionné 
+  end
+
+  #Configuration de la VM "VM2"
+  config.vm.define "VM2" do |machine|
+    machine.vm.box = "centos6.7"
+    machine.vm.hostname = "TestVM2"
+    machine.vm.network :private_network, ip: "192.168.10.192"
+  end
+end
 
 
 
