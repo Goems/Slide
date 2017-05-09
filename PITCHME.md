@@ -88,7 +88,7 @@ Aider et promouvoir l'IT dans les entreprises walonnes
 ### La virtualisation 
 
 #### Vagrant 
-
+```ruby
 Vagrant.configure(2) do |config|
    #Pour toute les machine qui fonctionne avec virtualbox
    config.vm.provider "virtualbox" do |vb|
@@ -110,6 +110,6 @@ Vagrant.configure(2) do |config|
     machine.vm.network :private_network, ip: "192.168.10.192"
   end
 end
-
+```
 
 
