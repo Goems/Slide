@@ -71,7 +71,7 @@ Aider et promouvoir l'IT dans les entreprises walonnes
 
 ### La Virtualisation 
 
-- <span class="fragment">Hyperviseur</span>
+Hyperviseur
     - <span class="fragment" style="color:grey">Type Natif</span>
     - <span class="fragment" style="color:grey">Type Hosted</span>
 
@@ -88,6 +88,8 @@ Aider et promouvoir l'IT dans les entreprises walonnes
 ### La virtualisation 
 
 #### Vagrant 
+
+
 ```ruby
 Vagrant.configure(2) do |config|
    #Pour toute les machine qui fonctionne avec virtualbox
@@ -97,17 +99,16 @@ Vagrant.configure(2) do |config|
 
   #Configuration de la VM "VM1"
   config.vm.define "VM1" do |machine|
-    machine.vm.box = "centos6.7"   #nom de la box 
-    machine.vm.hostname = "TestVM1"   
-    machine.vm.box_url = "https://dl.dropboxusercontent.com/u/51478659/vagrant/morungos-centos67.box"   #URL de la box si la box n'est pas déjà crée sur le pc 
+    machine.vm.box = "centos6.7"   #Nom de la box utilisée
+    machine.vm.hostname = "TestVM1"     #Hostname de la VM
     machine.vm.network :private_network, ip: "192.168.10.191"   #Création d'un réseau privé avec l'ip mentionné 
   end
 
   #Configuration de la VM "VM2"
   config.vm.define "VM2" do |machine|
-    machine.vm.box = "centos6.7"
-    machine.vm.hostname = "TestVM2"
-    machine.vm.network :private_network, ip: "192.168.10.192"
+    machine.vm.box = "centos6.7"    #Nom de la box utilisée
+    machine.vm.hostname = "TestVM2"      #Hostname de la VM
+    machine.vm.network :private_network, ip: "192.168.10.192"   ##Création d'un réseau privé avec l'ip mentionné
   end
 end
 ```
