@@ -112,5 +112,9 @@ Vagrant.configure(2) do |config|
   end
 end
 ```
++++
 
+### Les Conteneurs 
+
+!(logo_docker.png)
 
