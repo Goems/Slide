@@ -29,12 +29,6 @@ Mai 2017
 - <span class="fragment">Zonning de Gosselie</span>
 
 +++
-### Les equipes
-- <span class="fragment">Software and System Engineering</span>
-- <span class="fragment">Software Services Technologies</span>
-- <span class="fragment">Embedded & Communicating Systems</span>
-
-+++
 ### Leur jobs 
 Aider et promouvoir l'IT dans les entreprises walonnes
 
@@ -43,6 +37,13 @@ Aider et promouvoir l'IT dans les entreprises walonnes
 <span class="fragment">En les aidant dans leur projet en créant des inovations</span>
 
 +++
+### Les equipes
+- <span class="fragment">Software and System Engineering</span>
+- <span class="fragment">Software Services Technologies</span>
+- <span class="fragment">Embedded & Communicating Systems</span>
+
++++
+
 ### Leurs projets 
 
 - <span style="color:grey">Santé</span>
