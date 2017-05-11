@@ -28,31 +28,6 @@ Mai 2017
 - <span class="fragment">15 ans</span>
 - <span class="fragment">Zonning de Gosselie</span>
 
-+++
-### Leur jobs 
-Aider et promouvoir l'IT dans les entreprises walonnes
-
-<span class="fragment">Comment ? </span> 
-
-<span class="fragment">En les aidant dans leur projet en créant des inovations</span>
-
-+++
-### Les equipes
-- <span class="fragment">Software and System Engineering</span>
-- <span class="fragment">Software Services Technologies</span>
-- <span class="fragment">Embedded & Communicating Systems</span>
-
-+++
-
-### Leurs projets 
-
-- <span style="color:grey">Santé</span>
-    - <span class="fragment">SEAMPAT</span>
-
-- <span style="color:grey">Transport</span>
-    - <span class="fragment">MOBITS</span>
-
-
 ---
 ## Etat de l'art
 - <span class="fragment">Le versionning </span>
@@ -65,13 +40,6 @@ Aider et promouvoir l'IT dans les entreprises walonnes
 
 - <span class="fragment">Git </span>
 - <span class="fragment">GitLab</span>
-
-+++
-### Le cloud
-
-- <span class="fragment">IAAS: Infractruture As A Service</span>
-- <span class="fragment">SAAS: Software As A Service</span>
-- <span class="fragment">PAAS: Plateforme As A Service</span>
 
 +++
 
@@ -107,7 +75,8 @@ Vagrant.configure(2) do |config|
   config.vm.define "VM1" do |machine|
     machine.vm.box = "centos6.7"   #Nom de la box utilisée
     machine.vm.hostname = "TestVM1"     #Hostname de la VM
-    machine.vm.network :private_network, ip: "192.168.10.191"   #Création d'un réseau privé avec l'ip mentionné 
+    machine.vm.network :private_network, ip: "192.168.10.191"   
+    #Création d'un réseau privé avec l'ip mentionné 
   end
 
   #Configuration de la VM "VM2"
@@ -129,8 +98,25 @@ end
 
 +++
 ### La problématique ? 
+L'installation et le déploiment de serveur ou de machine prend du temps 
+
++++
+
+### Les solutions
+
+- <span class="fragment">Puppet</span>
+- <span class="fragment">Chef</span>
+- <span class="fragment">Ansible</span>
+- <span class="fragment">Saltstack</span>
 
 ---
+
+### Les critères de comparaison 
+
+
+
+
+
 ### Conclusion 
 
 - <span class="fragment">Autonomie</span>
