@@ -26,7 +26,7 @@ Mai 2017
 - <span class="fragment">ASBL</span>
 - <span class="fragment">45 personnes</span>
 - <span class="fragment">15 ans</span>
-- <span class="fragment">Zonning de Gosselie</span>
+- <span class="fragment">Zonning de Gosselies</span>
 
 ---
 ## Etat de l'art
@@ -34,7 +34,7 @@ Mai 2017
 - <span class="fragment">Le cloud</span>
 - <span class="fragment">La virtualisation</span>
 - <span class="fragment">Les conteneurs</span>
-- <span class="fragment">chocolatey</span>
+- <span class="fragment">Chocolatey</span>
 
 +++
 ### Le versionning 
@@ -96,7 +96,7 @@ end
 
 +++
 ### Chocolatey
-
+- <span class="fragment">Gestionnaires de paquets pour Windows </span>
 
 
 ---
@@ -114,6 +114,8 @@ end
 - <span class="fragment">Chef</span>
 - <span class="fragment">Ansible</span>
 - <span class="fragment">Saltstack</span>
+- <span class="fragment">Rudder</span>
+- <span class="fragment">OpenShift</span>
 
 ---
 
@@ -124,7 +126,7 @@ end
 - <span class="fragment">Architecture</span>
 - <span class="fragment">Repositerie</span>
 - <span class="fragment">Langage</span>
-- <span class="fragment">Plateform supportée</span>
+- <span class="fragment">Plateforme supportées</span>
 
 ---
 
