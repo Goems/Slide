@@ -34,6 +34,7 @@ Mai 2017
 - <span class="fragment">Le cloud</span>
 - <span class="fragment">La virtualisation</span>
 - <span class="fragment">Les conteneurs</span>
+- <span class="fragment">chocolatey</span>
 
 +++
 ### Le versionning 
@@ -93,12 +94,17 @@ end
 
 ![Logo](CaptureDocker1.png)
 
++++
+### Chocolatey
+
+
+
 ---
 ## Analyse comparative d'outils de déploiment et de configuration 
 
 +++
-### La problématique ? 
-L'installation et le déploiment de serveur ou de machine prend du temps 
+### La problématique ?
+- <span class="fragment">L'installation et le déploiment de serveur ou de machine prend du temps</span>
 
 +++
 
@@ -112,9 +118,15 @@ L'installation et le déploiment de serveur ou de machine prend du temps
 ---
 
 ### Les critères de comparaison 
+- <span class="fragment">Facilité d'installation</span>
+- <span class="fragment">facilité d'utilisation</span>
+- <span class="fragment">Scalable</span>
+- <span class="fragment">Architecture</span>
+- <span class="fragment">Repositerie</span>
+- <span class="fragment">Langage</span>
+- <span class="fragment">Plateform supportée</span>
 
-
-
+---
 
 
 ### Conclusion 
