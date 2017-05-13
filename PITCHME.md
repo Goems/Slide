@@ -117,7 +117,7 @@ end
 - <span class="fragment">Rudder</span>
 - <span class="fragment">OpenShift</span>
 
----
++++
 
 ### Les critères de comparaison 
 - <span class="fragment">Facilité d'installation</span>
