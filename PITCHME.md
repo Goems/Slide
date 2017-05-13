@@ -128,6 +128,10 @@ end
 - <span class="fragment">Langage</span>
 - <span class="fragment">Plateforme supportées</span>
 
++++
+### Exemple: Chef
+
+![Logo](chef_repr.png)
 ---
 
 
