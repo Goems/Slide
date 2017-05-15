@@ -126,7 +126,7 @@ end
 - <span class="fragment">Architecture</span>
 - <span class="fragment">Repositerie</span>
 - <span class="fragment">Langage</span>
-- <span class="fragment">Plateforme supportées</span>
+- <span class="fragment">Plateformes supportées</span>
 
 +++
 ### Exemple: Chef
