@@ -8,8 +8,6 @@ Sous la direction de Sébastien DUPONT et de Michel HANOTIAUX
 Mai 2017
 
 ---
-## Remerciements 
----
 ## Sommaire
  - <span class ="fragment">Le CETIC ? C'est quoi ?</span>  
  - <span class ="fragment">Etat de l'art</span>
