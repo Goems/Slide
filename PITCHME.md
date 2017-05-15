@@ -1,5 +1,5 @@
 
-### Analyse comparative d'outils de déploiment et de configuration 
+### Analyse comparative d'outils de déploiment et de configuration automatisée
 Stage de fin d'étude réalisé au CETIC
 Présenté par Valentin GOEMANNE
 
@@ -8,12 +8,12 @@ Sous la direction de Sébastien DUPONT et de Michel HANOTIAUX
 Mai 2017
 
 ---
-## Rermerciement 
+## Remerciements 
 ---
 ## Sommaire
  - <span class ="fragment">Le CETIC ? C'est quoi ?</span>  
  - <span class ="fragment">Etat de l'art</span>
- - <span class ="fragment"> Analyse comparative d'outils de déploiment et de configuration </span>
+ - <span class ="fragment">Analyse comparative d'outils de déploiement et de configuration automatisée </span>
  - <span class ="fragment"> Conclusion </span> 
 
 ---
@@ -100,11 +100,11 @@ end
 
 
 ---
-## Analyse comparative d'outils de déploiment et de configuration 
+## Analyse comparative d'outils de déploiment et de configuration automatisée 
 
 +++
 ### La problématique ?
-- <span class="fragment">L'installation et le déploiment de serveur ou de machine prend du temps</span>
+- <span class="fragment">L'installation et la configuration de serveurs ou de machines prend du temps</span>
 
 +++
 
